@@ -24,7 +24,7 @@ Teori :
 
 Materi 1 ( MOBILE APPICLATION ) 
 - Pengenalan Dart.
-- Install Home-brew ( untuk Mac ) Semacam findeks
+- Install Home-brew ( for Mac )
 - Install Dart 
 
 
